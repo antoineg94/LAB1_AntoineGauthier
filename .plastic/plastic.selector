@@ -1,0 +1,4 @@
+repository "LAB1_AntoineGauthier@agauthierCTR@cloud"
+  path "/"
+    br "/main"
+    co "/main"
